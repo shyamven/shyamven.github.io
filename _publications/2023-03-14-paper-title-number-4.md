@@ -12,4 +12,5 @@ Recent works exploring data-driven approaches to classical problems in adaptive 
 
 [Download paper here](https://arxiv.org/abs/2303.08241)
 
-Recommended citation: S. Venkatasubramanian, S. Gogineni, B. Kang, A. Pezeshki, M. Rangaswamy and V. Tarokh, "Subspace Perturbation Analysis for Data-Driven Radar Target Localization," <i>arXiv preprint arXiv:2303.08241<i>, doi: 10.48550/arXiv.2303.08241, 2023, doi: 10.1109/RadarConf2248738.2022.9764354.
+**Recommended citation**: <br> 
+S. Venkatasubramanian, S. Gogineni, B. Kang, A. Pezeshki, M. Rangaswamy and V. Tarokh, "Subspace Perturbation Analysis for Data-Driven Radar Target Localization," <i>arXiv preprint arXiv:2303.08241</i>, doi: 10.48550/arXiv.2303.08241, 2023, doi: 10.1109/RadarConf2248738.2022.9764354.
