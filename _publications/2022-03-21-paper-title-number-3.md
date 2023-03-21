@@ -12,4 +12,4 @@ Using an amalgamation of techniques from classical radar, computer vision, and d
 
 [Download paper here](https://arxiv.org/abs/2201.10712)
 
-Recommended citation: S. Venkatasubramanian, C. Wongkamhthong, M. Soltani, B. Kang, S. Gogineni, A. Pezeshki, M. Rangaswamy and V. Tarokh, "Toward Data-Driven STAP Radar," <i>2022 IEEE Radar Conference (RadarConf22)<i>, New York City, NY, USA, 2022, pp. 1-5, doi: 10.1109/RadarConf2248738.2022.9764354.
+Recommended citation: S. Venkatasubramanian, C. Wongkamhthong, M. Soltani, B. Kang, S. Gogineni, A. Pezeshki, M. Rangaswamy and V. Tarokh, "Toward Data-Driven STAP Radar," <i>2022 IEEE Radar Conference (RadarConf22)</i>, New York City, NY, USA, 2022, pp. 1-5, doi: 10.1109/RadarConf2248738.2022.9764354.
