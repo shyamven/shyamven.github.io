@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2021-12-07
-venue: '2021 IEEE International Symposium on Information Theory (ISIT)'
+venue: 'IEEE International Symposium on Information Theory (ISIT)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9517931'
 citation: 'S. Yang, A. Hareedy, S. Venkatasubramanian, R. Calderbank, and L. Dolecek. (2021). &quot;GRADE-AO: Towards Near-Optimal Spatially-Coupled Codes With High Memories.&quot; <i>Journal 1</i>. 1(3).'
 ---
