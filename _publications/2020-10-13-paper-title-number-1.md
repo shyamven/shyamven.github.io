@@ -10,4 +10,6 @@ citation: 'S. Gupta, E. Ghaderi, S. Shekhar, S. Venkatasubramanian, and A. S. Ra
 ---
 A discrete-time delay (TD) technique in a baseband receiver array is disclosed for canceling wide modulated bandwidth spatial interference and reducing the Analog-to-Digital Conversion (ADC) dynamic range requirements. In particular, the discrete-time delay (TD) technique first aligns the interference using non-uniform sampled phases followed by uniform cancellation using a cancellation matrix, such as, for example, a Truncated Hadamard Transform implemented with antipodal binary coefficients.
 
-Recommended citation: S. Gupta, E. Ghaderi, S. Shekhar, S. Venkatasubramanian, and A. S. Ramani, "Spatial interference cancellation for simultaneous wireless and information power transfer," U.S. Patent 10,804,988, Oct. 13, 2020 [online]. Available: [https://patents.google.com/patent/US3005282A/en](https://patents.google.com/patent/US10804988B2/en)
+[View patent here](https://patents.google.com/patent/US3005282A/en)
+
+Recommended citation: S. Gupta, E. Ghaderi, S. Shekhar, S. Venkatasubramanian, and A. S. Ramani, "Spatial interference cancellation for simultaneous wireless and information power transfer," U.S. Patent 10,804,988, Oct. 13, 2020.
