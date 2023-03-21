@@ -12,5 +12,4 @@ A discrete-time delay (TD) technique in a baseband receiver array is disclosed f
 
 [View patent here](https://patents.google.com/patent/US3005282A/en)
 
-**Recommended citation**: <br>
-S. Gupta, E. Ghaderi, S. Shekhar, S. Venkatasubramanian and A. S. Ramani, "Spatial Interference Cancellation for Simultaneous Wireless and Information Power Transfer," U.S. Patent 10,804,988, Oct. 13, 2020.
+Recommended citation: S. Gupta, E. Ghaderi, S. Shekhar, S. Venkatasubramanian and A. S. Ramani, "Spatial Interference Cancellation for Simultaneous Wireless and Information Power Transfer," U.S. Patent 10,804,988, Oct. 13, 2020.
