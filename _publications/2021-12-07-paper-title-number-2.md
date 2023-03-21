@@ -12,4 +12,5 @@ Spatially-coupled (SC) codes, known for their threshold saturation phenomenon an
 
 [Download paper here](https://arxiv.org/abs/2101.09962)
 
-Recommended citation: S. Yang, A. Hareedy, S. Venkatasubramanian, R. Calderbank and L. Dolecek, "GRADE-AO: Towards Near-Optimal Spatially-Coupled Codes With High Memories," <i>2021 IEEE International Symposium on Information Theory (ISIT)</i>, Melbourne, Australia, 2021, pp. 587-592, doi: 10.1109/ISIT45174.2021.9517931.
+**Recommended citation**: <br>
+S. Yang, A. Hareedy, S. Venkatasubramanian, R. Calderbank and L. Dolecek, "GRADE-AO: Towards Near-Optimal Spatially-Coupled Codes With High Memories," <i>2021 IEEE International Symposium on Information Theory (ISIT)</i>, Melbourne, Australia, 2021, pp. 587-592, doi: 10.1109/ISIT45174.2021.9517931.
