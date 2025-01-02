@@ -2,7 +2,7 @@
 title: "Data-Driven Target Localization Using Adaptive Radar Processing and Convolutional Neural Networks"
 collection: talks
 type: "Talk"
-permalink: /talks/2022-07-29-talk-2
+permalink: /talks/data-driven_target_localization
 venue: "U.S. Air Force Research Laboratory (AFRL)"
 date: 2022-07-29
 location: "Dayton, OH"
