@@ -2,7 +2,7 @@
 title: "Data-Driven Radar Target Position and Velocity Estimation"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-05-04-talk-1
+permalink: /talks/data-driven_radar_target_position_velocity
 venue: "U.S. Air Force Research Laboratory (AFRL)"
 date: 2023-08-10
 location: "Dayton, OH"
