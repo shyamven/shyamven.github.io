@@ -2,7 +2,7 @@
 title: "Toward Data-Driven STAP Radar"
 collection: talks
 type: "Conference proceedings talk"
-permalink: /talks/2022-03-23-talk-1
+permalink: /talks/toward_data-driven_stap_radar
 venue: "2022 IEEE Radar Conference"
 date: 2022-03-23
 location: "New York, NY"
