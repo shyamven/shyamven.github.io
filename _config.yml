@@ -109,7 +109,8 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "shyam_ven"
+  twitter          : # "shyam_ven"
+  bluesky          : "shyamven.bsky.social"
   vine             :
   weibo            :
   xing             :
