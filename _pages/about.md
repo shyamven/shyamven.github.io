@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am the Head of Technical Staff at Anthrogen.
+I am the Head of Technical Staff at [Anthrogen](https://www.anthrogen.com/).
 
 I am on leave from Duke University, where I am a PhD Candidate in the Electrical and Computer Engineering Department, advised by [Prof. Vahid Tarokh](https://ece.duke.edu/faculty/vahid-tarokh). My research interests are broadly in deep learning and information theory.
 
