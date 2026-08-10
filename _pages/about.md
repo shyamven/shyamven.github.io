@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I'm Shyam. I’m the Head of Technical Staff at [Anthrogen](https://www.anthrogen.com/).
 
-I did my PhD in Electrical and Computer Engineering at Duke, where I worked with [Vahid Tarokh](https://ece.duke.edu/faculty/vahid-tarokh). on deep learning and information theory. A lot of my research was about figuring out ways to make neural networks train faster and generalize better.
+I did my PhD in Electrical and Computer Engineering at Duke, where I worked with [Vahid Tarokh](https://ece.duke.edu/faculty/vahid-tarokh) on deep learning and information theory. A lot of my research was about figuring out ways to make neural networks train faster and generalize better.
 
 Before that, I studied Electrical Engineering at UCLA and worked with [Lara Dolecek](https://samueli.ucla.edu/people/lara-dolecek/) on high-performance spatially coupled codes.
 
